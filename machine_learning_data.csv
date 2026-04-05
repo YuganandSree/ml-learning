@@ -1,0 +1,9 @@
+Algorithm,Type,Use_Case,Complexity
+Linear Regression,Supervised,Prediction,Low
+Decision Tree,Supervised,Classification,Medium
+SVM,Supervised,Classification,High
+KNN,Supervised,Classification,Medium
+Random Forest,Supervised,Classification,High
+Naive Bayes,Supervised,Classification,Low
+K-Means,Unsupervised,Clustering,Medium
+Neural Network,Supervised,Deep Learning,Very High
